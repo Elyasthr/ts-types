@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "ES2015",
+    "noEmitOnError": true,
+    // "noEmit": false -- Si on utilise TS pour verifier le code seulement et qu'on ne veut pas le compiler
+    "strict": true,
+    "declaration": true
+  },
+  "files": [
+    "src/app.ts"
+  ]
+}
